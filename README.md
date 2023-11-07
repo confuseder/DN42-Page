@@ -1,2 +1,2 @@
-# DN42-Page
-AS4242420839‘s Peering Page For DN42
+# MMR’s DN42 Network
+AS4242420839‘s Information Page
