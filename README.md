@@ -12,7 +12,7 @@
 
 ### 联系方式
   - **Telegram:** [@MMR_839](https://t.me/MMR_839)
-  - **E-mail:** [g200803092018@gmail.com](g200803092018@gmail.com)
+  - **E-mail:** [me@mail.letcode.shop](me@mail.letcode.shop)
     
 ### 要求
   - 只接受使用 `Wireguard` 隧道的连接并启用 IP 地址限制。另外请在隧道中使用 `IPv6 Link-Local` 地址。
