@@ -25,6 +25,10 @@ AllowedIPs = 172.20.0.0/14, 10.0.0.0/8, 172.31.0.0/16, fd00::/8, fe80::/64
   - 您应该和除我以外的其他网络建立 Peer，而不是单点连接。
   - 您应该尽可能地支持 `多协议 BGP` 和 `拓展的下一跳`.
 
+### Looking Glass
+
+[**Looking Glass**](https://lg-dn42.letcode.shop)
+
 ### 提交对等请求
 ```text
 // Wireguard
