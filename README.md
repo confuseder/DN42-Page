@@ -49,32 +49,58 @@ ASN = <424242xxxx>
 
 #### 1. US (RackNerd VPS, IPv4 Only)
   1. ##### Endpoint
+     
      `us1.dn42.letcode.shop`
-  2. ##### DN42 IP
+     
+  4. ##### DN42 IP
 
      `172.23.161.3`
      
      `fd84:f015:38ad::3`
-  3. ##### Public Key
+     
+  6. ##### Public Key
 
      `nUYHVi/fEbAD/dbrsaTZx1AtPc3RaIhzpzITeNzaf1I=`
 
-  4. ##### BandWidth
+  7. ##### BandWidth
+     
      `1G / 1G`
+
+#### 1. DE (IPv6 Only)
+  1. ##### Endpoint
+
+     `dn.dn42.letcode.shop`
+
+  3. ##### DN42 IP
+
+     `172.23.161.2`
+
+     `fd84:f015:38ad::2`
+
+  4. ##### Public Key
+
+     `0F4hkpNefamtVi5O8kmYtH/QsTfWdJAfXbPuUR6HpWs=`
+
+  5. ##### BandWidth
+
+     ` ? `
 
 #### 1. CN (家庭宽带, 活动IP地址, IPv4 Only)
   1. ##### Endpoint
+
      `cn.dn42.letcode.shop`
-  2. ##### DN42 IP
+     
+  3. ##### DN42 IP
 
      `172.23.161.1`
      
      `fd84:f015:38ad::1`
-  3. ##### Public Key
+     
+  5. ##### Public Key
 
      `nUYHVi/fEbAD/dbrsaTZx1AtPc3RaIhzpzITeNzaf1I=`
 
-  4. ##### BandWidth
+  6. ##### BandWidth
      `1G / 100M`
 
 ### 注释
