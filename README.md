@@ -12,7 +12,7 @@
 
 ### 联系方式
   - **Telegram:** [@MMR_839](https://t.me/MMR_839)
-  - **E-mail:** [me@mail.letcode.shop](me@mail.letcode.shop)
+  - **E-mail:** [me@mail.rakov.cc](me@rakov.cc)
     
 ### 要求
   - 只接受使用 `Wireguard` 隧道的连接并启用 IP 地址限制。另外请在隧道中使用 `IPv6 Link-Local` 地址。
@@ -27,7 +27,7 @@ AllowedIPs = 172.20.0.0/14, 10.0.0.0/8, 172.31.0.0/16, fd00::/8, fe80::/64
 
 ### Looking Glass
 
-[**Looking Glass**](https://lg-dn42.letcode.shop)
+[**Looking Glass**](https://lg-dn42.rakov.cc)
 
 ### 提交对等请求
 ```text
@@ -50,7 +50,7 @@ ASN = <424242xxxx>
 #### 1. 🇺🇸 US (RackNerd VPS, IPv4 Only)
   1. ##### Endpoint
      
-     `us1.dn42.letcode.shop`
+     `us1.dn42.rakov.cc`
      
   4. ##### DN42 IP
 
@@ -69,7 +69,7 @@ ASN = <424242xxxx>
 #### 1. 🇩🇪 DE (IPv6 Only)
   1. ##### Endpoint
 
-     `de.dn42.letcode.shop`
+     `de.dn42.rakov.cc`
 
   3. ##### DN42 IP
 
@@ -88,7 +88,7 @@ ASN = <424242xxxx>
 #### 1. 🇨🇳 CN (家庭宽带, 活动IP地址, IPv4 Only)
   1. ##### Endpoint
 
-     `cn.dn42.letcode.shop`
+     `cn.dn42.rakov.cc`
      
   3. ##### DN42 IP
 
