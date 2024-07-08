@@ -47,7 +47,7 @@ ASN = <424242xxxx>
 >
 > CN 节点仅接受来自中国大陆的隧道连接
 
-#### 1. 🇺🇸 US (RackNerd VPS, IPv4 Only)
+#### 1. 🇺🇸 US (RackNerd VPS, IPv4 Only) (Recommand)
   1. ##### Endpoint
      
      `us1.dn42.rakov.cc`
@@ -85,7 +85,7 @@ ASN = <424242xxxx>
 
      `?`
 
-#### 1. 🇨🇳 CN (家庭宽带, 活动IP地址, IPv4 Only)
+#### 1. ~~🇨🇳 CN (家庭宽带, 活动IP地址, IPv4 Only)~~ (Don't Work Now)
   1. ##### Endpoint
 
      `cn.dn42.rakov.cc`
